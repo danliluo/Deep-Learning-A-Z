@@ -1,4 +1,0 @@
-Insatlling Karas:
-conda install -c conda-forge keras
-
-
